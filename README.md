@@ -1,8 +1,8 @@
 # My Resume
 
-![GitHub last commit](https://img.shields.io/github/last-commit/zanderman/resume)
+![GitHub last commit](https://img.shields.io/github/last-commit/zanderman/vitae)
 
-The latest curriculum vitae release is accessible via the web at: <https://zanderman.github.io/resume/>
+The latest curriculum vitae release is accessible via the web at: <https://zanderman.github.io/vitae/>
 
 This repository contains the following:
 
