@@ -4,11 +4,18 @@
 
 This repository contains all of my public academic, professional, and personal information.
 
-The latest curriculum vitae (CV) release is accessible via the web at: <https://zanderman.github.io/vitae/cv>
+The latest curriculum vitae (CV) and resume releases are accessible via the web at:
 
-This repository contains the following:
+* CV : <https://zanderman.github.io/vitae/cv>
+* Resume : <https://zanderman.github.io/vitae/resume>
 
-* Latest CV release: [derieux-cv.pdf](./derieux-cv.pdf)
-* Current CV working version: [derieux-cv.docx](./derieux-cv.docx)
-* Biography: [bio.md](./bio.md)
-* Publications: [publications.bib](./publications.bib)
+This repository contains the following content files:
+
+Description | File
+--- | ---
+Latest CV release | [derieux-cv.pdf](./derieux-cv.pdf)
+Current CV working version | [derieux-cv.docx](./derieux-cv.docx)
+Latest resume release | [derieux-resume.pdf](./derieux-resume.pdf)
+Current resume working version | [derieux-resume.docx](./derieux-resume.docx)
+Biography | [bio.md](./bio.md)
+Publications (BibTex) | [publications.bib](./publications.bib)
